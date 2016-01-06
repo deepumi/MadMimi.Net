@@ -1,0 +1,11 @@
+C:\Projects\Github\MadMimi\MadMimi.Net\MadMimi.Net\bin\Debug\MadMimi.Net.dll
+C:\Projects\Github\MadMimi\MadMimi.Net\MadMimi.Net\bin\Debug\MadMimi.Net.pdb
+C:\Projects\Github\MadMimi\MadMimi.Net\MadMimi.Net\obj\Debug\MadMimi.Net.csprojResolveAssemblyReference.cache
+C:\Projects\Github\MadMimi\MadMimi.Net\MadMimi.Net\obj\Debug\MadMimi.Net.dll
+C:\Projects\Github\MadMimi\MadMimi.Net\MadMimi.Net\obj\Debug\MadMimi.Net.pdb
+C:\Projects\Github\MadMimi\MadMimi.Net\MadMimi.Net\bin\Debug\MadMimi.Net.dll.config
+C:\Projects\Github\MadMimi\MadMimi.Net\MadMimi.Net\bin\Debug\System.Net.Http.Extensions.dll
+C:\Projects\Github\MadMimi\MadMimi.Net\MadMimi.Net\bin\Debug\System.Net.Http.Primitives.dll
+C:\Projects\Github\MadMimi\MadMimi.Net\MadMimi.Net\bin\Debug\System.Net.Http.Extensions.xml
+C:\Projects\Github\MadMimi\MadMimi.Net\MadMimi.Net\bin\Debug\System.Net.Http.Primitives.xml
+C:\Projects\Github\MadMimi\MadMimi.Net\MadMimi.Net\obj\Debug\MadMimi.Net.csproj.App.config

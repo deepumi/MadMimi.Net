@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MadMimi.Net.Web", "MadMimi.Net.Web\MadMimi.Net.Web.csproj", "{334AC133-F0A6-4F85-A802-EEFFE08A1CF6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MadMimi.Net", "..\..\MadMimi.Net\MadMimi.Net\MadMimi.Net.csproj", "{BDDE7A81-15F1-4407-8045-8934C108B89A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{334AC133-F0A6-4F85-A802-EEFFE08A1CF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{334AC133-F0A6-4F85-A802-EEFFE08A1CF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{334AC133-F0A6-4F85-A802-EEFFE08A1CF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{334AC133-F0A6-4F85-A802-EEFFE08A1CF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDDE7A81-15F1-4407-8045-8934C108B89A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDDE7A81-15F1-4407-8045-8934C108B89A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDDE7A81-15F1-4407-8045-8934C108B89A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDDE7A81-15F1-4407-8045-8934C108B89A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
