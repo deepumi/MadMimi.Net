@@ -1,5 +1,5 @@
 #MadMimi.Net
-MadMimi DotNet Library. This library is pretty simple to use, All you need to create a MailMessage (Sysetm.Net.Mail) object and pass your API key and username. Alo, You can take advantage of the existing Smtp Mail message logic with out changing much code change you can integrate madmimi.net to your existing apps.
+MadMimi DotNet Library. This library is pretty simple to use, All you need to do is create a MailMessage (Sysetm.Net.Mail) object and pass your API key and Username. Also, Using this library you should be able to easily integrate your apps/projects without breaking your existing SMPT logic.
 
 #Usage
 ```csharp
